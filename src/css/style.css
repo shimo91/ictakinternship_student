@@ -1,0 +1,69 @@
+.title{
+  font-family: 'Brush Script MT', cursive;
+  color:color-mix(in srgb, color percentage, color percentage);
+}
+.subtitle{
+  font-family: 'Courier New';
+  color:black;
+}
+.image{
+  font-family: 'Courier New';
+  color:black;
+  
+  background-image: linear-gradient(rgba(255,255,255,0.75), rgba(255,255,255,0.75)), url("../images/intro.jpg");
+  min-height:500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  
+}
+  
+  .alumini
+  {
+    font-family: 'Georgia', cursive;
+  
+  }
+  .bg-img{
+    background-image: url("../images/Login.jpg"); 
+    min-height:500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  .repo-img{
+    background-image: url("../images/report.jpg"); 
+    min-height:500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding-top: 2%;
+  }
+  .heading{
+    font-family: Copperplate, Papyrus, fantasy;
+    padding-left: 5%;
+    font-size: larger;
+    padding-bottom: 10%;
+  }
+  .report_heading{
+    font-family: Copperplate, Papyrus, fantasy;
+    padding-left: 5%;
+    font-size: larger;
+    padding-bottom: 2%;
+  }
+  .report{
+    font-family: Copperplate, Papyrus, fantasy;
+    padding-left: 5%;
+    font-size: larger;
+    text-align: center
+  }
+
+  .signup{
+    background-image: url('../images/signupimg.png');
+    background-position: center;
+    background-size: cover;
+    position: relative;
+  }
+  
